@@ -1,4 +1,4 @@
-# sc-projects
+# -projects
 ## *stanCode* Projects
 Hello there! I'm Calvin.\
 This repository holds my programming projects done during the period of stanCode SC101 course.
