@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f923a1fb-7734-459c-af4a-7bb2d9681d40" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1Rpd639dRtDlAd0LJ2JMIbu8nGp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Python.hangman">
+    <configuration name="caesar" type="PythonConfigurationType" factoryName="Python">
+      <module name="Assignment3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/caesar.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="complement" type="PythonConfigurationType" factoryName="Python">
+      <module name="Assignment3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/complement.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="hangman" type="PythonConfigurationType" factoryName="Python">
+      <module name="Assignment3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hangman.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="rocket" type="PythonConfigurationType" factoryName="Python">
+      <module name="Assignment3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/python3.7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/rocket.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="similarity" type="PythonConfigurationType" factoryName="Python">
+      <module name="Assignment3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/similarity.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="simple_calculator" type="PythonConfigurationType" factoryName="Python">
+      <module name="Assignment3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/simple_calculator.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Doctest build_complement" type="tests" factoryName="Doctests" nameIsGenerated="true">
+      <module name="Assignment3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/complement.py" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="build_complement" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_FUNCTION" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Doctest pythag" type="tests" factoryName="Doctests" nameIsGenerated="true">
+      <module name="Assignment3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythagorean.py" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="pythag" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_FUNCTION" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Doctests in similarity" type="tests" factoryName="Doctests" nameIsGenerated="true">
+      <module name="Assignment3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/similarity.py" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.caesar" />
+      <item itemvalue="Python.complement" />
+      <item itemvalue="Python.hangman" />
+      <item itemvalue="Python.similarity" />
+      <item itemvalue="Python.simple_calculator" />
+      <item itemvalue="Python.rocket" />
+      <item itemvalue="Python tests.Doctests in similarity" />
+      <item itemvalue="Python tests.Doctest build_complement" />
+      <item itemvalue="Python tests.Doctest pythag" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f923a1fb-7734-459c-af4a-7bb2d9681d40" name="Default Changelist" comment="" />
+      <created>1562062188486</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1562062188486</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Doctests_in_similarity - 2019.07.02 at 03h 52m 13s.xml">
+      <configuration name="Doctests in similarity" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Doctests_in_similarity - 2019.07.02 at 03h 53m 49s.xml">
+      <configuration name="Doctests in similarity" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Doctests_in_similarity - 2019.07.02 at 04h 09m 14s.xml">
+      <configuration name="Doctests in similarity" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Doctests_in_similarity - 2019.07.02 at 04h 13m 25s.xml">
+      <configuration name="Doctests in similarity" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Doctests_in_similarity - 2019.07.02 at 04h 13m 40s.xml">
+      <configuration name="Doctests in similarity" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Doctests_in_similarity - 2019.07.02 at 04h 14m 16s.xml">
+      <configuration name="Doctests in similarity" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Doctest_build_complement - 2019.07.02 at 04h 14m 42s.xml">
+      <configuration name="Doctest build_complement" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Doctests_in_similarity - 2019.07.02 at 04h 15m 37s.xml">
+      <configuration name="Doctests in similarity" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Doctests_in_similarity - 2019.07.02 at 04h 16m 13s.xml">
+      <configuration name="Doctests in similarity" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Doctests_in_similarity - 2019.07.02 at 04h 16m 32s.xml">
+      <configuration name="Doctests in similarity" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="318" y="39" key="#rocket" timestamp="1584945577696">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="318" y="39" key="#rocket/0.23.1280.777@0.23.1280.777" timestamp="1584945577696" />
+    <state width="1259" height="263" key="GridCell.Tab.0.bottom" timestamp="1585474991072">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1259" height="263" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1585380297764" />
+    <state width="1259" height="263" key="GridCell.Tab.0.bottom/0.23.1280.777@0.23.1280.777" timestamp="1585474991072" />
+    <state width="1259" height="263" key="GridCell.Tab.0.center" timestamp="1585474991071">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1259" height="263" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1585380297764" />
+    <state width="1259" height="263" key="GridCell.Tab.0.center/0.23.1280.777@0.23.1280.777" timestamp="1585474991071" />
+    <state width="1259" height="263" key="GridCell.Tab.0.left" timestamp="1585474991071">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1259" height="263" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1585380297763" />
+    <state width="1259" height="263" key="GridCell.Tab.0.left/0.23.1280.777@0.23.1280.777" timestamp="1585474991071" />
+    <state width="1259" height="263" key="GridCell.Tab.0.right" timestamp="1585474991071">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1259" height="263" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1585380297764" />
+    <state width="1259" height="263" key="GridCell.Tab.0.right/0.23.1280.777@0.23.1280.777" timestamp="1585474991071" />
+    <state width="1259" height="263" key="GridCell.Tab.1.bottom" timestamp="1585474991073">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1259" height="263" key="GridCell.Tab.1.bottom/0.0.1280.800@0.0.1280.800" timestamp="1585380297766" />
+    <state width="1259" height="263" key="GridCell.Tab.1.bottom/0.23.1280.777@0.23.1280.777" timestamp="1585474991073" />
+    <state width="1259" height="263" key="GridCell.Tab.1.center" timestamp="1585474991072">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1259" height="263" key="GridCell.Tab.1.center/0.0.1280.800@0.0.1280.800" timestamp="1585380297765" />
+    <state width="1259" height="263" key="GridCell.Tab.1.center/0.23.1280.777@0.23.1280.777" timestamp="1585474991072" />
+    <state width="1259" height="263" key="GridCell.Tab.1.left" timestamp="1585474991072">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1259" height="263" key="GridCell.Tab.1.left/0.0.1280.800@0.0.1280.800" timestamp="1585380297765" />
+    <state width="1259" height="263" key="GridCell.Tab.1.left/0.23.1280.777@0.23.1280.777" timestamp="1585474991072" />
+    <state width="1259" height="263" key="GridCell.Tab.1.right" timestamp="1585474991072">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1259" height="263" key="GridCell.Tab.1.right/0.0.1280.800@0.0.1280.800" timestamp="1585380297765" />
+    <state width="1259" height="263" key="GridCell.Tab.1.right/0.23.1280.777@0.23.1280.777" timestamp="1585474991072" />
+  </component>
+</project>
